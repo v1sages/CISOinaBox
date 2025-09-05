@@ -8,7 +8,9 @@
 | [CISO Portal](https://www.ciso-portal.com/) |   |
 | [Interactive Verizon Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/dbir/) |   |
 | [CISA All Resources & Tools](https://www.cisa.gov/resources-tools/all-resources-tools) |   |
-| [Board of Directors Insights Hub | Google Cloud](https://cloud.google.com/solutions/security/board-of-directors#section-2) |   |
+| [Board of Directors Insights Hub - Google Cloud](https://cloud.google.com/solutions/security/board-of-directors#section-2) |   |
+| [Introducint How to CISO, Volume 1: The First 91 Days](https://orca.security/resources/blog/introducing-how-to-ciso-volume-1/) |   |
+| [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) |   |
 | []() |   |
 
 
@@ -36,12 +38,6 @@
 
 ### Podcasts
 
-| Link | Description | 
-| --- | --- |
-| []() |   |
-
-### Podcasts
-
 | Link | Description |
 | --- | --- |
 | []() |   |
@@ -56,6 +52,11 @@
 
 | Link | Description | 
 | --- | --- |
+| [Brutalist Report - The Day's Headlines](https://brutalist.report/) |   |
+| [All Infosec News](https://allinfosecnews.com/) |   |
+| [Security News and Views for the World - The Register](http://www.theregister.co.uk/security/) |   |
+| [Threatpost - the first stop for security news](https://threatpost.com/) |   |
+| []() |   |
 | []() |   |
 
 ### Videos
@@ -67,6 +68,10 @@
 | [Cyber Insurance 101 for CISOs](https://www.youtube.com/watch?v=aUPwwIffq8M) |   |
 | [KringleCon 2021: A CISO's Best Friend: The Pentester!!?! - Sean Atkinson & Chris Elgee](https://www.youtube.com/watch?v=VpguSY00rIQ) |   |
 | [RSA 2023: A CISO's Best Friend: The Pentester (extended)](https://www.youtube.com/watch?v=xj2Sw9ueozM) |   |
+| [Kate Mullin: Social Engineering from a CISO's Perspective, Layer 8 Conference](https://www.youtube.com/watch?v=F0ww1aBMG1c) |   |
+| [Cyber Risk at the Board Level: A CISO's Guide with NACD's Chris Hetner](https://www.youtube.com/watch?v=gQKNoWaWGWE) |   |
+| [GRIMMCon 0x2 - Closing CISO Panel with Shawn M Bowen, Brett Conlon, Matt Conner, and Brian M DeMuth](https://www.youtube.com/watch?v=sRFjbEcfN5Y) |   |
+| [Deputy CISO Secrets: What They Really Look for in New Cyber Talen](https://www.youtube.com/watch?v=rkVCCKYANhU&pp=ygUTQWxsSGFja2luZ0NvbnMgQ0lTTw%3D%3D) |   |
 
 
 ### Data Breach Research
