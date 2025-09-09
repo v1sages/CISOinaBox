@@ -167,11 +167,13 @@
 | [National Online Informative References Program](https://csrc.nist.gov/projects/olir) |   |
 
 ### MITRE
+| Link | Description |
+| --- | --- |
 | [MITRE Assistant](https://www.allarounddefender.io/home) |   |
 | [MITRE ATT&CK](https://attack.mitre.org/) |   |
 | [MITRE ATT&CK® Navigator](https://mitre-attack.github.io/attack-navigator/) |   |
 | [nist800-53-r5 overview in Navigator](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2Fcenter-for-threat-informed-defense%2Fattack-control-framework-mappings%2Fv1.5.0%2Fframeworks%2FATT%2526CK-v10.1%2Fnist800-53-r5%2Flayers%2Fnist800-53-r5-overview.json) |   |
-| [MITRE D3FEND™](https://d3fend.mitre.org/) |   |
+| [MITRE D3FEND™](https://d3fend.mitre.org/) |   | 
 | [MITRE Caldera™](https://caldera.mitre.org/) |   |
 | [Insider Threat Types](https://insiderthreat.mitre.org/insider-types/) |   |
 | [Top ATT&CK Techniques](https://ctid.mitre.org/projects/top-attack-techniques/) |   |
@@ -221,8 +223,6 @@
 | [MSPortals.io](https://msportals.io/?search=) |   |
 | [DirTeam](https://dirteam.com/) |   |
 
-
-| []() |   |
 
 ### Security Awareness
 
