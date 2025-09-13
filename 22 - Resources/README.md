@@ -3,16 +3,16 @@
 ### CISO Resouces / General
 | Link | Description | 
 | --- | --- |
-| [Accidental CISO](https://www.accidentalciso.net/) |   |
-| [Last Week as a vCISO](https://www.lastweekasavciso.com/) |   |
-| [CISO Portal](https://www.ciso-portal.com/) |   |
-| [CISOTradeCraft/CISO Role](https://github.com/cisotradecraft/Podcast/blob/main/README.md#ciso-role) |   |
-| [Interactive Verizon Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/dbir/) |   |
-| [CISA All Resources & Tools](https://www.cisa.gov/resources-tools/all-resources-tools) |   |
-| [Board of Directors Insights Hub - Google Cloud](https://cloud.google.com/solutions/security/board-of-directors#section-2) |   |
-| [Introducint How to CISO, Volume 1: The First 91 Days](https://orca.security/resources/blog/introducing-how-to-ciso-volume-1/) |   |
-| [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) |   |
-
+| [Accidental CISO](https://www.accidentalciso.net/) | Accidental CISO blog and website  |
+| [Last Week as a vCISO](https://www.lastweekasavciso.com/) | Last week as a VCISO - insights on building a vCISO business  |
+| [CISO Portal](https://www.ciso-portal.com/) | CISO Portal - all things CISO  |
+| [CISOTradeCraft/CISO Role](https://github.com/cisotradecraft/Podcast/blob/main/README.md#ciso-role) | CISOTradecraft's Github repository on the role of the CISO
+| [Interactive Verizon Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/dbir/) | Interactive page on Verizon Data Breach Investigations  |
+| [CISA All Resources & Tools](https://www.cisa.gov/resources-tools/all-resources-tools) | Resources and Tools from US Government agency, CISA  |
+| [Board of Directors Insights Hub - Google Cloud](https://cloud.google.com/solutions/security/board-of-directors#section-2) | Google Cloud's board of directors insights hub  |
+| [Introducint How to CISO, Volume 1: The First 91 Days](https://orca.security/resources/blog/introducing-how-to-ciso-volume-1/) | Orca Security blog on the first ~90 days as a CISO  |
+| [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) | Paul Jerimy's map of Security Certifications |
+| [Awesome Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | A curated list of annual cybersecurity reports that get released to the industry. Find them all in once place here | 
 
 ### Threat Modeling
 
@@ -25,39 +25,41 @@
 | Link | Description | 
 | --- | --- |
 | [Cover Your Tracks: EFF](https://coveryourtracks.eff.org/) | EFF's Cover Your Tracks resource webpage  |
-| [Qualys Browser Check](https://browsercheck.qualys.com/) |   |
-| [Privacy.net Analyzer](https://privacy.net/analyzer/) |   |
-| [AmIUnique.org](https://amiunique.org/) |   |
-| [Cloudflare Browser Security Check](https://www.cloudflare.com/ssl/encrypted-sni/) |   |
-
+| [Qualys Browser Check](https://browsercheck.qualys.com/) | Qualys browser check  |
+| [Privacy.net Analyzer](https://privacy.net/analyzer/) | Privacy.net analyzer to see what data is exposed from browser  |
+| [AmIUnique.org](https://amiunique.org/) | Examine Browser footprint and online presence |
+| [Cloudflare Browser Security Check](https://www.cloudflare.com/ssl/encrypted-sni/) | Cloudflare browser security check tool  |
 
 
 ### Tools (CISO Tools)
 
 | Link | Description | 
 | --- | --- |
-| [Terms of Service TL;DR](https://tosdr.org/) |   |
-| [Email Spoof Test](http://emailspooftest.com/) |   |
-| [Online Visual Traceroute](http://traceroute.monitis.com/) |   |
-| [Isitdown.us](https://isitdown.us/) |   |
+| [Terms of Service TL;DR](https://tosdr.org/) | Terms of Service, Didn't Read - for covering the terms of service from various platforms when they're too long to read | 
+| [Email Spoof Test](http://emailspooftest.com/) | Publicly available online tool to test email spoof capabilities  |
+| [Online Visual Traceroute](http://traceroute.monitis.com/) | visualize a traceroute command  |
+| [Isitdown.us](https://isitdown.us/) | check if a website or service is actually down  |
 
 ### Podcasts
 
 | Link | Description |
 | --- | --- |
-| [MLSecOps](https://mlsecops.com/) |   |
-| [Darknet Diaries](https://darknetdiaries.com/) |   |
-| [CISO Tradecraft](https://www.cisotradecraft.com/) |   |
-| [The Cybersecurity Defenders Podcast](https://limacharlie.io/podcast) |   |
+| [MLSecOps](https://mlsecops.com/) | MLSecOps podcast  |
+| [Darknet Diaries](https://darknetdiaries.com/) | Covers a wide range of hacking and information security stories from real threat actors, defenders, criminals, and other security figures  |
+| [CISO Tradecraft](https://www.cisotradecraft.com/) | CISO Tradecraft podcast  |
+| [The Cybersecurity Defenders Podcast](https://limacharlie.io/podcast) | Cybersecurity Defenders podcast, often focuses on defense  |
 
 ### Incident Contacts
 
 | Link | Description |
 | --- | --- |
-| [FBI Field Offices](https://www.fbi.gov/contact-us/field-offices) |   |
-| [U.S. DOJ Computer Crime and Intellectual Property (CCIPS)](https://www.justice.gov/criminal/criminal-ccips) |   |
-| [CISA Joint Ransomware Task Force](https://www.cisa.gov/joint-ransomware-task-force) |   |
-| [Data Breach Notification Laws By State - IT Governance](https://www.itgovernanceusa.com/data-breach-notification-laws) |   |
+| [FBI Field Offices](https://www.fbi.gov/contact-us/field-offices) | Field offices for the Federal Bureau of Investigation (FBI)  |
+| [U.S. DOJ Computer Crime and Intellectual Property (CCIPS)](https://www.justice.gov/criminal/criminal-ccips) | U.S. Department of Justice Computer Crime and Intellectual Property division/site  |
+| [CISA Joint Ransomware Task Force](https://www.cisa.gov/joint-ransomware-task-force) | Task force for Ransomware from CISA  |
+| [United States CSIRTs List](https://www.ransomware.live/csirt/US) | List of vendor and government CSIRTs in the United States | 
+| [FIRST Incident Response Teams List (Global)](https://www.first.org/members/teams/) | List of contact information for teams participating in FIRST, the Forum of Incident Response and Security Teams | 
+| [CSIRT Americas](https://csirtamericas.org/en) | Network of Government Cyber Incident Response Teams (CSIRT) of the Member States of the Organization of American States (OAS) |
+| [Data Breach Notification Laws By State - IT Governance](https://www.itgovernanceusa.com/data-breach-notification-laws) | Laws broken down by state for Data Breach Notifications  |
 
 
 ### News
@@ -89,10 +91,7 @@
 | [CC13: CISO Village - "Vendor Reveal Party](https://www.youtube.com/watch?v=JWcK7KPn3JA) | Flipping perspectives so CISOs and vendors can finally speak the same language; workshop to build vendor partnerships and cut procurement friction  |
 | [CC13: CISO Village - Panel Discussion](https://www.youtube.com/watch?v=Tb5JUdBZcv4) | Four frontline CISOs trade “worst-day” breach stories, debate AI fraud, and share practical ways to turn burned-out employees into your first line of defense  |
 | [CC13: CISO Village - "Cybersecurity Leadership Accelerator: Your First 100 Days as CISO"](https://www.youtube.com/watch?v=CCMJgOa7wcg) | Move from “new hire” to trusted security leader in 100 days—get the step-by-step game plan, communication templates, and quick-win checklist straight from two battle-tested CISOs  |
-| [cc13: ciso village - "fortifying the future: essential cyber insurance strategies for cisos"](https://www.youtube.com/watch?v=ac0rmwnp6e0) | Learn exactly how to read, negotiate, and use a cyber-insurance policy before breach-day panic sets in  |
-
-
-
+| [cc13: ciso village - "fortifying the future: essential cyber insurance strategies for cisos"](https://www.youtube.com/watch?v=ac0rMwnp6E0) | Learn exactly how to read, negotiate, and use a cyber-insurance policy before breach-day panic sets in  |
 
 ### Data Breach Research
 
@@ -184,9 +183,7 @@
 | [Operationalizing MITRE ATT&CK  - Infosec Writeups](https://infosecwriteups.com/operationalizing-mitre-att-ck-to-harden-cyber-defenses-ba9f6852228f) | Infosec Writeups Medium blog on operationlizing the ATT&CK Framework  |
 | [MITRE’s Innovation Toolkit (ITK)](https://itk.mitre.org/) | Collection of proven and repeatable problem-solving methods to help you and your team do something different that makes a difference |
 | [Space Attack Research and Tactic Analysis (SPARTA) matrix](https://sparta.aerospace.org/) | SPARTA is intended to provide unclassified information to space professionals about how spacecraft may be compromised via cyber and traditional counterspace means  |
-| [MITRE Engage - Adversary Engagement Operations Framework](https://engage.mitre.org/) |  Framework
-
-for planning and discussing adversary engagement operations |
+| [MITRE Engage - Adversary Engagement Operations Framework](https://engage.mitre.org/) |  Framework for planning and discussing adversary engagement operations |
 
 
 ### Incident Response
@@ -203,9 +200,6 @@ for planning and discussing adversary engagement operations |
 | [Ransom Wiki](https://ransom.wiki/) | Check if your company or partner appears in a claimed* ransom attack breach | 
 | [APTMap](https://andreacristaldi.github.io/APTmap/) | Semi-accurate map based on data sources such as MISP, MITRE, and others displaying an attempted map of Advanced Persistent Threats (ATPs) | 
 | [Map of Ransomware Attacks - Worldwide](https://www.comparitech.com/blog/information-security/global-ransomware-attacks/) | Map of Confirmed Ransomware Attacks from 2018 to Present from Comparitech | 
-
-
-
 
 ### Compliance
 
@@ -247,7 +241,7 @@ for planning and discussing adversary engagement operations |
 
 | Link | Description | 
 | --- | --- |
-| [EndofLife.Date]()https://endoflife.date/ | Easily see an overview of when software has an expected end-of-life or support end date |
+| [EndofLife.Date](https://endoflife.date/) | Easily see an overview of when software has an expected end-of-life or support end date |
 
 ### Threat Intelligence Sharing
 
@@ -260,51 +254,32 @@ for planning and discussing adversary engagement operations |
 
 | Link | Description | 
 | --- | --- |
-| [Security Operations Maturity Model(SOC-CMM)](https://www.soc-cmm.com/) |   |
-| [Software Assurance Maturity Model (SAMM)](https://owaspsamm.org/) |   |
-| [Security Awareness Maturity Model](https://www.sans.org/blog/security-awareness-maturity-model/) |   |
-| [Security Culture Maturity Model](https://www.knowbe4.com/security-culture-maturity-model) |   |
-| [AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/model/) |   |
-| [Threat Hunting Maturity Model](http://detect-respond.blogspot.com/2015/10/a-simple-hunting-maturity-model.html) |   |
-| [Cyber Threat Intelligence Capability Maturity Model(CTI-CMM)](https://www.cti-cmm.org/) |   |
-| [Vendor Risk Management Maturity Model (VRMMM)](https://sharedassessments.org/vrmmm/) |   |
-| [Enterprise Browser Security Maturity Model (LayerX)](https://go.layerxsecurity.com/hubfs/The-Secure-Enterprise-Browser-Maturity-Guide.pdf) | 
-| [OWASP DevSecOps Maturity Model (DSOMM)](https://owasp.org/www-project-devsecops-maturity-model/) |   | 
-| [SOAR Maturity Model](https://chronicle.security/blog/posts/SOAR-adoption-maturity-model/) |   |
-| [Consumer Authentication Strength Maturoity Model (CASMM)](https://danielmiessler.com/blog/casmm-consumer-authentication-security-maturity-model/) |   |
-| [Zero-trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model) |   |
-| [Red Team Maturity Model](https://www.redteams.fyi/) |   |
-| [Cybersecurity Capability Maturity Model (C2M2)](https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2) |   |
-| [Vulnerability Management Maturity Model](https://www.sans.org/posters/key-metrics-cloud-enterprise-vmmm/) |   |
-| [IoT Security Maturity Model](https://www.iiconsortium.org/pdf/SMM_Description_and_Intended_Use_FINAL_Updated_V1.1.pdf) |   |
-| [ENISA Computer Security Incident Response Teams (CSIRT) Maturity Framework](https://www.enisa.europa.eu/publications/enisa-csirt-maturity-framework) |   |
-| [API Security Model](https://curity.io/resources/learn/the-api-security-maturity-model/) |   |
-| [Building Security in Maturity Model (BSIMM)](https://www.bsimm.com/) |   |
-| [Container Security Model](https://www.redhat.com/en/resources/container-security-maturity-model-whitepaper) |   |
-| [Privileged Access Management Maturity Model](https://delinea.com/resources/pam-maturity-model-whitepaper) |   |
-| [Infrastructure as Code Maturity Model](https://programmaticponderings.com/2016/11/25/infrastructure-as-code-maturity-model/) |   |
-| [Essential Eight Maturity Model](https://www.cyber.gov.au/acsc/view-all-content/publications/essential-eight-maturity-model) |   |
-| [Cloud Forensics Capability Maturity Model (CMM)](https://cloudsecurityalliance.org/artifacts/cloud-forensics-capability-model/) |   |
-| [Threat Model Maturity Model](https://blog.secpillars.com/2022/06/threat-model-maturity-model.html) |   |
-| [Insider Threat Program Maturity Model](https://www.veriato.com/resources/whitepapers/insider-threat-maturity-report-2019) |   |
-| [Security Maturity Model](https://www.wwt.com/wwt-research/security-maturity-model) |   |
-| [Product Security Incident Response Team (PSIRT) Maturity Model](https://www.first.org/standards/frameworks/psirts/psirt_maturity_document) |   |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| [Security Operations Maturity Model(SOC-CMM)](https://www.soc-cmm.com/) |  The SOC-CMM was created using a Design Science Research approach in which a scientific approach is combined with practical testing and experiences to create a usable artifact, in this case the maturity assessment tool  |
+| [Software Assurance Maturity Model (SAMM)](https://owaspsamm.org/) |  The mission of OWASP SAMM is to be the prime maturity model for software assurance that provides an effective and measurable way for all types of organizations to analyze and improve their software security posture |
+| [Security Awareness Maturity Model](https://www.sans.org/blog/security-awareness-maturity-model/) | Established in 2011 through a coordinated effort by over 200 security awareness officers  |
+| [Security Culture Maturity Model](https://www.knowbe4.com/security-culture-maturity-model) | The Security Culture Maturity Model created by KnowBe4 is an evidence-driven framework for understanding and benchmarking the current security-related maturity of an organization, industry vertical, region, or any measurable group  |
+| [AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/model/) | The AWS Security Maturity Model is a set of guidance and documentation from AWS, intended to help an organization assess their security maturity, shape their cloud security strategy, and to prioritise future work accordingly  |
+| [Threat Hunting Maturity Model](http://detect-respond.blogspot.com/2015/10/a-simple-hunting-maturity-model.html) | Threat Hunting Maturity Model is a five-level evaluation system of how efficient an organization is in terms of cyber hunting  |
+| [Cyber Threat Intelligence Capability Maturity Model(CTI-CMM)](https://www.cti-cmm.org/) | The CTI-CMM is a community-developed framework to help Cyber Threat Intelligence teams assess and improve their support for internal stakeholders. It defines 11 domains tied to typical stakeholder functions and maps specific CTI practices to levels of maturity  |
+| [Vendor Risk Management Maturity Model (VRMMM)](https://sharedassessments.org/vrmmm/) | ) - The VRMMM evaluates third-party risk programs against a set of comprehensive best practices and industry benchmarks. The focus of the VRMMM is to provide third party risk managers with a tool they can use to evaluate their program against a comprehensive set of best practices  |
+| [Enterprise Browser Security Maturity Model (LayerX)](https://go.layerxsecurity.com/hubfs/The-Secure-Enterprise-Browser-Maturity-Guide.pdf) | The Browser Security Maturity Model by LayerX provides a structured, three-stage approach to securing the enterprise web browser as a critical risk surface in the SaaS, BYOD, and GenAI era |
+| [OWASP DevSecOps Maturity Model (DSOMM)](https://owasp.org/www-project-devsecops-maturity-model/) | The DevSecOps Maturity Model, which is presented in the talk, shows security measures which are applied when using DevOps strategies and how these can be prioritized  | 
+| [SOAR Maturity Model](https://chronicle.security/blog/posts/SOAR-adoption-maturity-model/) | As security orchestration, automation and response (SOAR) adoption continues at a rapid pace, security operations teams have a greater need for a structured planning approach  |
+| [Consumer Authentication Strength Maturoity Model (CASMM)](https://danielmiessler.com/blog/casmm-consumer-authentication-security-maturity-model/) | An easy-to-use security model for the average internet user. Basically, how secure is someone’s current behavior with respect to passwords and authentication, and how can they improve?  |
+| [Zero-trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model) | CISA’s Zero Trust Maturity Model is one of many roadmaps for agencies to reference as they transition towards a zero trust architecture. The goal of the maturity model is to assist agencies in the development of their zero trust strategies and implementation plans and present ways in which various CISA services can support zero trust solutions across agencies  |
+| [Red Team Maturity Model](https://www.redteams.fyi/) |  A model to reference when gauging Red Team maturity, as well as set goals and provide guidance when building internal Red Teams  |
+| [Cybersecurity Capability Maturity Model (C2M2)](https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2) | You can use the C2M2 to consistently measure cybersecurity capabilities over time, identify target maturity levels based on risk, and prioritize the actions and investments  |
+| [Vulnerability Management Maturity Model](https://www.sans.org/posters/key-metrics-cloud-enterprise-vmmm/) | The SANS Vulnerability Management Maturity Model helps you gauge the effectiveness of your Vulnerability Management program  |
+| [IoT Security Maturity Model](https://www.iiconsortium.org/pdf/SMM_Description_and_Intended_Use_FINAL_Updated_V1.1.pdf) | The goal of a Security Maturity Model (SMM) is to provide a path for Internet of Things (IoT) providers to know where they need to be and how to invest in security mechanisms that meet their requirements without over-investing in unnecessary security mechanisms  |
+| [ENISA Computer Security Incident Response Teams (CSIRT) Maturity Framework](https://www.enisa.europa.eu/publications/enisa-csirt-maturity-framework) | The ENISA CSIRT Maturity Framework is intended to contribute to the enhancement of the global capacity to manage cyber incidents, with a focus on CSIRTs  |
+| [API Security Model](https://curity.io/resources/learn/the-api-security-maturity-model/) | Inspired by the Richardson Maturity Model, which outlines increasing degrees of web service development maturity, the API Security Maturity Model reframes the model within the context of security. Within this model, security and trust are improved the higher up you go  |
+| [Building Security in Maturity Model (BSIMM)](https://www.bsimm.com/) | BSIMM helps organizations plan, implement, and measure their software security initiatives  |
+| [Container Security Model](https://www.redhat.com/en/resources/container-security-maturity-model-whitepaper) | This maturity model can help organizations understand and successfully meet the security challenges that go along with adopting and expanding containerized applications |
+| [Privileged Access Management Maturity Model](https://delinea.com/resources/pam-maturity-model-whitepaper) | The Delinea Privileged Access Management (PAM) Maturity Model is a framework to help you systematically lower privileged access risk, increase business agility, and improve operational efficiency |
+| [Infrastructure as Code Maturity Model](https://programmaticponderings.com/2016/11/25/infrastructure-as-code-maturity-model/) | Although infrastructure as code is not explicitly called out as a practice in the [Continuous Delivery Maturity Model](https://github.com/garystafford/cd-maturity-model), many of it’s best practices can be found in the maturity model  |
+| [Essential Eight Maturity Model](https://www.cyber.gov.au/acsc/view-all-content/publications/essential-eight-maturity-model) | The Essential Eight are designed to protect Microsoft Windows-based internet-connected networks. While the Essential Eight may be applied to cloud services and enterprise mobility, or other operating systems, it was not primarily designed for such purposes and alternative mitigation strategies may be more appropriate to mitigate unique cyber threats to these environments  |
+| [Cloud Forensics Capability Maturity Model (CMM)](https://cloudsecurityalliance.org/artifacts/cloud-forensics-capability-model/) | CMM can be used by both cloud consumers and Cloud Service Providers (CSPs) in assessing their process maturity for conducting digital forensic investigations in the cloud environment. Five maturity levels were given, with an attempt to map classic digital forensics to the cloud environment  |
+| [Threat Model Maturity Model](https://blog.secpillars.com/2022/06/threat-model-maturity-model.html) | This framework attempts to be a prescriptive target for designing a specific strategy to successfully threat model  |
+| [Insider Threat Program Maturity Model](https://www.veriato.com/resources/whitepapers/insider-threat-maturity-report-2019) | The Insider Threat Program Maturity Model created to help security professionals assess their organization’s ability to monitor for, detect, and respond to insider threats. By using a maturity model for reference, organizations can see where their program needs improvement, working towards an Optimized level of maturity  |
+| [Security Maturity Model](https://www.wwt.com/wwt-research/security-maturity-model) |  This model is designed to help organizations grow and mature their security capabilities related to people, processes and technology. The goal is to help you better understand the reality of where your organization stands today and the steps you should take to level up. A step-by-step guide for CISOs to build alignment, reduce risk and deliver business value. CISOs can no longer focus strictly on developing technical capabilities and protecting their organizations. Executives and boards are looking to CISOs to make investments that drive growth with a holistic security framework. No security program can fully eliminate risk or human error, but a mature approach to cybersecurity can mitigate the risks that pose the most danger to organizational objectives and success. |
+| [Product Security Incident Response Team (PSIRT) Maturity Model](https://www.first.org/standards/frameworks/psirts/psirt_maturity_document) | A PSIRT is an entity within an organization which, at its core, focuses on the identification, assessment, and disposition of the risks associated with security vulnerabilities within the products, including offerings, solutions, components, and/or services which an organization produces and/or sells. PRIST supports Identifying metrics for evaluating performance and/or effectiveness to identify improvements. [PSIRT services framework](https://www.first.org/standards/frameworks/psirts/FIRST_PSIRT_Services_Framework_v1.0.pdf) helps to assess or evaluate how well a PSIRT is operating, and to identify potential areas for improvement. The PSIRT will be able to measure its performance and understand areas where improvement is desired.
