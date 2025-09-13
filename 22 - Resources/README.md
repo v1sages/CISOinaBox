@@ -164,7 +164,7 @@
 | [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) |   |
 | [NISTIR 8286, Integrating Cybersecurity and Risk Management (ERM)](https://csrc.nist.gov/publications/detail/nistir/8286/final) |   |
 | [Identity & Access Management](https://www.nist.gov/identity-access-management) |   |
-| [Search | CSRC](https://csrc.nist.gov/publications/sp) |   |
+| [Search -  CSRC](https://csrc.nist.gov/publications/sp) |   |
 | [NCCoE: NIST National Cybersecurity Center of Excellence](https://www.nccoe.nist.gov/) |   |
 | [National Online Informative References Program](https://csrc.nist.gov/projects/olir) |   |
 
