@@ -10,7 +10,7 @@
 | [Interactive Verizon Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/dbir/) | Interactive page on Verizon Data Breach Investigations  |
 | [CISA All Resources & Tools](https://www.cisa.gov/resources-tools/all-resources-tools) | Resources and Tools from US Government agency, CISA  |
 | [Board of Directors Insights Hub - Google Cloud](https://cloud.google.com/solutions/security/board-of-directors#section-2) | Google Cloud's board of directors insights hub  |
-| [Introducint How to CISO, Volume 1: The First 91 Days](https://orca.security/resources/blog/introducing-how-to-ciso-volume-1/) | Orca Security blog on the first ~90 days as a CISO  |
+| [Introducing How to CISO, Volume 1: The First 91 Days](https://orca.security/resources/blog/introducing-how-to-ciso-volume-1/) | Orca Security blog on the first ~90 days as a CISO  |
 | [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) | Paul Jerimy's map of Security Certifications |
 | [Awesome Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | A curated list of annual cybersecurity reports that get released to the industry. Find them all in once place here | 
 
@@ -97,76 +97,67 @@
 
 | Link | Description | 
 | --- | --- |
-| [US Data Breach Law Interactive map - Baker Law](https://www.bakerlaw.com/us-data-breach-interactive-map/) |   |
-| [AI Incident Database](https://incidentdatabase.ai/) |   |
-| [Cyber Loss Data Types](https://www.advisenltd.com/data/cyber-loss-data/) |   |
-| [Reasonable IR Team Expectations - Leslie Carhartt blog](https://tisiphone.net/2021/05/11/reasonable-ir-team-expectations/) |   |
-| [Orange Cyber Defense](https://www.orangecyberdefense.com/) |   |
-| [Responding in the 'Golden Hour' of a Cyber Attack - SecurityInfoWatch.com](https://www.securityinfowatch.com/security-executives/article/12102754/responding-in-the-golden-hour-of-a-cyber-attack) |   |
-| [Breaches.cloud - documenting cloud breaches](https://www.breaches.cloud/) |   |
+| [US Data Breach Law Interactive map - Baker Law](https://www.bakerlaw.com/us-data-breach-interactive-map/) | An interactive map of US Data Breach Laws  |
+| [AI Incident Database](https://incidentdatabase.ai/) | Database from the last few years of AI-related incidents.  |
+| [Cyber Loss Data Types](https://www.advisenltd.com/data/cyber-loss-data/) | A Visual overview of Cyber Risk Loss Types |
+| [Reasonable IR Team Expectations - Leslie Carhartt blog](https://tisiphone.net/2021/05/11/reasonable-ir-team-expectations/) | Blog article from industry leader Leslie Carhartt on concrete expectations from a mature Incident Response team: What should the company be able to provide and deliver?  |
+| [Orange Cyber Defense](https://www.orangecyberdefense.com/) | Europe-based firm that conducts threat research and intelligence. May contain helpful directions or resources.  |
+| [Responding in the 'Golden Hour' of a Cyber Attack - SecurityInfoWatch.com](https://www.securityinfowatch.com/security-executives/article/12102754/responding-in-the-golden-hour-of-a-cyber-attack) | Article on improving time to detection during incidents  |
+| [Breaches.cloud - documenting cloud breaches](https://www.breaches.cloud/) | This site is a compendium of information related to security incidents and breaches with customers operating in the major cloud providers. It is intended to help cloud security practitioners articulate the risks of specific cloud security mistakes and to help them inform their respective leadership, development, and operations teams. Our goal is to provide the security community a go-to place for identifying real-world examples of how cloud security misconfigurations have impacted real customers.  |
 
 ### Vulnerability Databases
 
 | Link | Description | 
 | --- | --- |
-| [CVE - Vulnerability Management](http://cve.mitre.org/compatible/vulnerability_management.html) |   |
-| [National Vulnerability Database Home](http://nvd.nist.gov/home.cfm) |   |
-| [Exploits Database by Offensive Security](http://www.exploit-db.com/) |   |
-| [HackerWatch.org](http://www.hackerwatch.org/) |   |
-| [Cloud Security Atlas](https://securitylabs.datadoghq.com/cloud-security-atlas/) |   |
+| [CVE.org](https://www.cve.org/) | Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities. |
+| [CVE - Vulnerability Management](http://cve.mitre.org/compatible/vulnerability_management.html) | Historical database of vulnerabilities.  |
+| [National Vulnerability Database Home](http://nvd.nist.gov/home.cfm) |  The NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). |
+| [Cloud Security Atlas](https://securitylabs.datadoghq.com/cloud-security-atlas/) | Datadog Cloud Security Atlas is a risk register for Threats and Vulnerabilities. This database gives you the ability to search and filter on your cloud provider platform, risk type, and sort by impact, exploitability, and recency. |
 
 ### Software Security
 
 | Link | Description | 
 | --- | --- |
-| [The Immutable Laws of Security](https://learn.microsoft.com/en-us/security/zero-trust/ten-laws-of-security?WT.mc_id=linkedin#10-laws-of-cybersecurity-risk) |   |
-| [Search - Cyentia Cybersecurity Research Library](https://library.cyentia.com/?q=brand) |   |
-| [SAFECode](https://training.safecode.org/courses) |   |
-| [OWASP](https://owasp.org/) |   |
-| [Pbom.dev](https://pbom.dev/) |   |
-| [Software Bill of Materials (SBOM) - CISA](https://www.cisa.gov/sbom) |   |
-| [ENISA - Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity) |   |
-| [Security Score Cards](https://securityscorecards.dev/) |   |
-| [Boostsecurity.io](https://boostsecurity.io/) |   |
-| [Continuous Cloud Audit Metrics Catalog](https://htmlpreview.github.io/?https://github.com/cloudsecurityalliance/continuous-audit-metrics/blob/main/metrics-catalog.html) |   |
-| [Cloud Security Alliance (CSA) Metrics](https://www.securitymetametrics.com/html/csa.html) |   |
-| [Securing your Open Source Dependencies (Google PDF)](https://services.google.com/fh/files/misc/securing_your_open_source_dependencies_infographic.pdf) |   |
+| [The Immutable Laws of Security](https://learn.microsoft.com/en-us/security/zero-trust/ten-laws-of-security?WT.mc_id=linkedin#10-laws-of-cybersecurity-risk) | Microsoft Documentation Link to the Immutable Laws of Security  |
+| [Search - Cyentia Cybersecurity Research Library](https://library.cyentia.com/?q=brand) | Cyentia Cybersecurity Research Library's Search Page.  |
+| [SAFECode](https://training.safecode.org/courses) | Courses link for SAFECode initiative  |
+| [OWASP](https://owasp.org/) | Authority, OWASP, with many projects and publications around Web Application Security  |
+| [Pbom.dev](https://pbom.dev/) | Open-source framework for releasing secure projects.  |
+| [Software Bill of Materials (SBOM) - CISA](https://www.cisa.gov/sbom) | A nested inventory, a list of ingredients that make up software components, page from CISA.  |
+| [ENISA - Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity) | The report provides an overview of the current supply chain cybersecurity practices followed by essential and important entities in the EU, based on the results of a 2022 ENISA study which focused on investments of cybersecurity budgets among organisations in the EU.  |
+| [Security Score Cards](https://securityscorecards.dev/) |  Build better security habits,
+one test at a time. Quickly assess open source projects for risky practices |
+| [Boostsecurity.io](https://boostsecurity.io/) | Service provider for Actionable Security Automation  |
+| [Continuous Cloud Audit Metrics Catalog](https://htmlpreview.github.io/?https://github.com/cloudsecurityalliance/continuous-audit-metrics/blob/main/metrics-catalog.html) | Catalog from the Cloud Security Alliance of metrics.  |
+| [Cloud Security Alliance (CSA) Metrics](https://www.securitymetametrics.com/html/csa.html) | A list of metrics and overview from Cloud Security Alliance.  |
+| [Securing your Open Source Dependencies (Google PDF)](https://services.google.com/fh/files/misc/securing_your_open_source_dependencies_infographic.pdf) | A PDF from Google on 5 practical steps to securing open-source dependencies.  |
 | [Supply-chain Levels for Software Artifacts (SLSA)](https://slsa.dev/) | Security Framework to prevent tampering, improve integrity, and secure packages and infrastructure in your projects.  |
-
-### Privacy
-
-| Link | Description | 
-| --- | --- |
-
-### Open Source and Security
-
-| Link | Description | 
-| --- | --- |
 
 ### Cyber Risk
 
 | Link | Description | 
 | --- | --- |
-| [Tony Martin-Vegue](https://www.tonym-v.com/) |   |
-| [Cyber Economics](https://www.cyber-economics.com/) |   |
-| [The Society for Risk Analysis](https://www.sra.org/) |   |
-| [OWASP RISK CALCULATOR](https://security-net.biz/files/owaspriskcalc.html) |   |
-| [Cyber Exposure Index](https://cyberexposureindex.com/cyber-exposure-index/?country=United_States) |   |
-| [Aaron Lange - Mostly Free Resources for Cybersecurity and GRC](https://www.aronlange.com/rc) |   |
-| [The Duckbill Group](https://www.duckbillgroup.com/) |   |
-| [Building a Cyber Risk Management Program](https://www.oreilly.com/library/view/building-a-cyber/9781098147785/) |   |
-| [Centre for Risk Studies (Cambridge)](https://www.jbs.cam.ac.uk/faculty-research/centres/risk/) |   |
+| [Tony Martin-Vegue](https://www.tonym-v.com/) | Fascinating blog and thoughts on the economics of security.  |
+| [Cyber Economics](https://www.cyber-economics.com/) | Advisors to the Cyber Insurance market, with several resources including research.  |
+| [The Society for Risk Analysis](https://www.sra.org/) | The Society for Risk Analysis is a multidisciplinary, interdisciplinary, scholarly, international society that provides an open forum for all those who are interested in risk analysis. |
+| [OWASP RISK CALCULATOR](https://security-net.biz/files/owaspriskcalc.html) | This Risk Rating Calculator is based on OWASP's Risk Rating Methodology.  |
+| [Cyber Exposure Index](https://cyberexposureindex.com/cyber-exposure-index/?country=United_States) | The Cyber Exposure Index (CEI) is powerful data for investors and risk management professionals. It is a measure of externally observable cyber exposure of publicly traded companies. |
+| [GRC Lab (Content from Aron Lange)](https://grclab.com/) | Information on GRC, overviews of Information Security, and others |
+| [The Duckbill Group](https://www.duckbillgroup.com/) | Information and consultancy on AWS Strategies and risk mitigation  |
+| [Building a Cyber Risk Management Program](https://www.oreilly.com/library/view/building-a-cyber/9781098147785/) | O'Reilly - building a cyber risk management program info.  |
+| [Building a Cyber Risk Management Prgram (PDF)](https://ebook.app.hcu.edu.gh/wp-content/uploads/2024/08/Brian-Allen-Brandon-Bapst-Terry-Allan-Hicks-Building-a-Cyber-Risk-Management-Program_-Evolving-Security-for-the-Digital-Age-2023-OReilly-Media-libgen.li-1.pdf) | PDF of "Building a Cyber Risk Management Program |
+| [Centre for Risk Studies (Cambridge)](https://www.jbs.cam.ac.uk/faculty-research/centres/risk/) | Cambridge's center for studying risk.  |
 
 ### NIST Resources
 
 | Link | Description | 
 | --- | --- |
-| [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) |   |
-| [NISTIR 8286, Integrating Cybersecurity and Risk Management (ERM)](https://csrc.nist.gov/publications/detail/nistir/8286/final) |   |
-| [Identity & Access Management](https://www.nist.gov/identity-access-management) |   |
-| [Search -  CSRC](https://csrc.nist.gov/publications/sp) |   |
-| [NCCoE: NIST National Cybersecurity Center of Excellence](https://www.nccoe.nist.gov/) |   |
-| [National Online Informative References Program](https://csrc.nist.gov/projects/olir) |   |
+| [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) | NIST's AI Risk Management Framework  |
+| [NISTIR 8286, Integrating Cybersecurity and Risk Management (ERM)](https://csrc.nist.gov/publications/detail/nistir/8286/final) | NIST Publication on Enterprise Risk Management  |
+| [Identity & Access Management](https://www.nist.gov/identity-access-management) | NIST's page on Identity and Access Management (IAM)  |
+| [Search -  CSRC](https://csrc.nist.gov/publications/sp) | Search on NIST's publications for CSRC  |
+| [NCCoE: NIST National Cybersecurity Center of Excellence](https://www.nccoe.nist.gov/) | National Cybersecurity Center of Excellence link from NIST |
+| [National Online Informative References Program](https://csrc.nist.gov/projects/olir) | NIST Project for National Online Informative References  |
 
 ### MITRE
 | Link | Description |
@@ -190,7 +181,7 @@
 
 | Link | Description | 
 | --- | --- |
-| [Cyber Incident Response Team Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) |   |
+| [Cyber Incident Response Team Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) | Battle Cards for Incident Response Teams playbooks  |
 | [Playbooks - Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#playbooks) | Playbooks section in the Awesome Incident Response Github Repository | 
 | [Incident Response Playbooks: Steps for Minimizing Damage](https://frsecure.com/blog/incident-response-playbooks/) |  Self help guides for common incidents from FRSecure | 
 | [docs.velociraptor.app](https://docs.velociraptor.app/) | Documentation link for Velociraptor Endpoint visibility and collection tool  |
