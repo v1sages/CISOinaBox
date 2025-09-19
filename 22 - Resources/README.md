@@ -30,7 +30,6 @@
 | [AmIUnique.org](https://amiunique.org/) | Examine Browser footprint and online presence |
 | [Cloudflare Browser Security Check](https://www.cloudflare.com/ssl/encrypted-sni/) | Cloudflare browser security check tool  |
 
-
 ### Tools (CISO Tools)
 
 | Link | Description | 
@@ -60,7 +59,6 @@
 | [FIRST Incident Response Teams List (Global)](https://www.first.org/members/teams/) | List of contact information for teams participating in FIRST, the Forum of Incident Response and Security Teams | 
 | [CSIRT Americas](https://csirtamericas.org/en) | Network of Government Cyber Incident Response Teams (CSIRT) of the Member States of the Organization of American States (OAS) |
 | [Data Breach Notification Laws By State - IT Governance](https://www.itgovernanceusa.com/data-breach-notification-laws) | Laws broken down by state for Data Breach Notifications  |
-
 
 ### News
 
@@ -125,8 +123,7 @@
 | [Pbom.dev](https://pbom.dev/) | Open-source framework for releasing secure projects.  |
 | [Software Bill of Materials (SBOM) - CISA](https://www.cisa.gov/sbom) | A nested inventory, a list of ingredients that make up software components, page from CISA.  |
 | [ENISA - Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity) | The report provides an overview of the current supply chain cybersecurity practices followed by essential and important entities in the EU, based on the results of a 2022 ENISA study which focused on investments of cybersecurity budgets among organisations in the EU.  |
-| [Security Score Cards](https://securityscorecards.dev/) |  Build better security habits,
-one test at a time. Quickly assess open source projects for risky practices |
+| [Security Score Cards](https://securityscorecards.dev/) |  Build better security habits,one test at a time. Quickly assess open source projects for risky practices |
 | [Boostsecurity.io](https://boostsecurity.io/) | Service provider for Actionable Security Automation  |
 | [Continuous Cloud Audit Metrics Catalog](https://htmlpreview.github.io/?https://github.com/cloudsecurityalliance/continuous-audit-metrics/blob/main/metrics-catalog.html) | Catalog from the Cloud Security Alliance of metrics.  |
 | [Cloud Security Alliance (CSA) Metrics](https://www.securitymetametrics.com/html/csa.html) | A list of metrics and overview from Cloud Security Alliance.  |
@@ -226,7 +223,6 @@ one test at a time. Quickly assess open source projects for risky practices |
 | [Activedirectorypro.com](https://activedirectorypro.com/) | Streamline Active Directory Management - helpful blog articles, too | 
 | [ThatLazyAdmin](https://www.thatlazyadmin.com) | Real-world fixes and powerful scripts for fellow admins | 
 | [LazyWinAdmin](https://lazywinadmin.com/) | Francois-Xavier Cat blog on solving technical problems through automation and sharing Microsoft knowledge | 
-
 
 ### Security Awareness
 
