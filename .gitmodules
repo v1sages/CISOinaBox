@@ -1,0 +1,3 @@
+[submodule "ciso-in-a-box-site"]
+	path = ciso-in-a-box-site
+	url = git@github.com:CISO-in-a-Box/ciso-in-a-box-site.git
