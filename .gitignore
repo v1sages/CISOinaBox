@@ -1,2 +1,12 @@
-
+CONTINUE.md
+.gitignore
 .DS_Store
+.github/workflows/
+AGENTS.md
+AGENTS.MD
+thoughtpad.md
+tasks.md
+research/
+.opencode/
+.opencode-bak/
+opencode.json

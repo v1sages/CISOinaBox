@@ -2,7 +2,7 @@
 
 **Cybersecurity Operations (SecOps)** – often implemented via a Security Operations Center (SOC) – form the backbone of an organization’s security program. SecOps combines people, processes, and technology to continuously monitor for threats and **detect, investigate, respond to, and recover from cyber incidents**. A mature SecOps program not only reacts to incidents but **proactively defends** the organization through automation and intelligence-driven decision making. This guide outlines key components of building a mature SecOps capability, aligned with best practices and frameworks (NIST, CIS Controls, ISO 27001), and provides recommendations based on organizational size and maturity level.
 
-*Figure: Analysts working in a Security Operations Center, monitoring systems in real-time.* Continuous monitoring and rapid response are hallmarks of SecOps, enabling organizations to contain attacks and minimize damage. As maturity increases, SecOps shifts from basic monitoring toward **proactive threat hunting and risk-based security operations**, ensuring the security program scales with evolving threats and business needs.
+Continuous monitoring and rapid response are hallmarks of SecOps, enabling organizations to contain attacks and minimize damage. As maturity increases, SecOps shifts from basic monitoring toward **proactive threat hunting and risk-based security operations**, ensuring the security program scales with evolving threats and business needs.
 
 ## **Establishing the Foundation**
 
@@ -43,6 +43,8 @@ To build a strong SecOps foundation, an organization must define the scope and g
 **Deliverables:**
 
 * **Alert Use Case & Detection Rules Catalog:** A documented repository of all active detection rules, use cases, and threat scenarios covered in the SIEM/XDR. For each rule, include its logic/threshold, data sources, and the type of threat it is meant to detect. This catalog helps ensure coverage of relevant TTPs (tactics, techniques, procedures) and is often mapped to frameworks like MITRE ATT\&CK for coverage analysis. Regularly review and update this catalog as new threats emerge or the environment changes.
+
+  *Note: To ensure comprehensive detection coverage, organizations should regularly test their detection rules and use cases against known adversary techniques. Frameworks like Atomic Red Team provide pre-built tests mapped to MITRE ATT&CK techniques that can be used to validate detection capabilities and identify gaps in security monitoring. This proactive approach helps create new detection opportunities and ensures security controls are effective against real-world threats.*
 
 * **SOC Monitoring Reports (Daily/Weekly):** Establish routine reporting on the security monitoring program. Daily or weekly SOC reports might summarize notable alerts, incidents detected, trend lines in alert volume, and any gaps or issues observed. These reports keep IT and security leadership informed of what the SOC is seeing. They can also include metrics like number of alerts handled, top categories of alerts, false positive rates, etc., to communicate the SOC’s workload and value.
 
